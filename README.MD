@@ -7,7 +7,7 @@
 
 `$nobel_viz python nobel_viz.py`
 # The skills set that I learned in the book
-## Programming language
+## Programming Language
 python, JavaScript
 ## Web Framework
 Flask
